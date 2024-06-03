@@ -1,1 +1,1 @@
-console.log("This is new js file")
+console.log("This is new js file in github.com")
