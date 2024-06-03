@@ -1,2 +1,2 @@
 console.log("Hello world!");
-console.log("Git");
+console.log("Git-2 updated");
